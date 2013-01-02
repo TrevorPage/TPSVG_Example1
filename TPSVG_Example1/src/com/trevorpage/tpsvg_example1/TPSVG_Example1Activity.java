@@ -49,4 +49,8 @@ public class TPSVG_Example1Activity extends Activity implements com.trevorpage.t
 	public void onSVGPrivateData(String key, String value) {
 
 	}
+
+	public void setRemainderWidthOrHeight(float remainderWidth, float remainderHeight) {
+
+	}
 }
